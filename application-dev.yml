@@ -1,0 +1,6 @@
+mysql:
+  user: basketball
+  
+  
+person:
+  name: wsl

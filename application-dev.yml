@@ -1,6 +1,6 @@
 mysql:
-  user: basketball
+  user: basketball_
   
   
 person:
-  name: wsl
+  name: wsl_

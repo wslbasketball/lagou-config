@@ -1,6 +1,2 @@
-mysql:
-  user: basketball_new
-  
-  
-person:
-  name: wsl_new
+firm:
+  slogan: 中国梦！
